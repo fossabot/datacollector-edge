@@ -42,7 +42,12 @@ If you need help with production systems, you can check out the variety of suppo
 
 
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstreamsets%2Fdatacollector-edge.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstreamsets%2Fdatacollector-edge?ref=badge_large)
+
 # Useful resources
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstreamsets%2Fdatacollector-edge.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstreamsets%2Fdatacollector-edge?ref=badge_shield)
+
 * [Nightly Builds](http://nightly.streamsets.com/latest/tarball/SDCe)
 * [Quickstart](QUICKSTART.md)
 * [Building StreamSets Data Collector Edge](BUILD.md)
